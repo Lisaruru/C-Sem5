@@ -1,8 +1,5 @@
 ﻿// Задайте массив заполненный случайными положительными трёхзначными числами. Напишите программу, которая покажет количество чётных чисел в массиве.
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace exs34
 {
